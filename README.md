@@ -6,13 +6,17 @@ This is a simple workout tracker application built using React and Node.js. The 
 # Installation
 To install the application, clone the repository and run npm install to install the necessary dependencies.
 
-```git clone https://github.com/your-username/workout-tracker.git
+```
+git clone https://github.com/your-username/workout-tracker.git
 cd workout-tracker
-npm install```
+npm install
+```
 
 # Usage
 To start the application, run npm start. The application should open in your default web browser.
-```npm start```
+```
+npm start
+```
 
 # Technologies Used
 React
