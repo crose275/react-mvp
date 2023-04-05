@@ -19,11 +19,11 @@ npm start
 ```
 
 # Technologies Used
-React
-Node.js
-PostgreSQL
-Bootstrap
-Moment.js
+* React
+* Node.js
+* PostgreSQL
+* Bootstrap
+* Moment.js
 
 # Contributors
 Cedrick Roseberry (@crose275)
