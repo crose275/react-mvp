@@ -29,7 +29,7 @@ npm start
 Cedrick Roseberry (@crose275)
 
 
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
