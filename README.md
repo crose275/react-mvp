@@ -27,5 +27,3 @@ npm start
 
 # Contributors
 Cedrick Roseberry (@crose275)
-
-H~2~O
