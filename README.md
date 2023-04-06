@@ -27,3 +27,9 @@ npm start
 
 # Contributors
 Cedrick Roseberry (@crose275)
+
+
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
